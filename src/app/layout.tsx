@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next.js Template",
-  description: "A minimal Next.js starter template",
+  title: "Dog Whistle",
+  description: "Ultrasonic dog whistle with adjustable frequency, patterns, and volume",
 };
 
 export default function RootLayout({
